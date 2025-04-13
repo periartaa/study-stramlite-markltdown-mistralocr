@@ -1,10 +1,16 @@
 # Simple APP markltdown-mistralocr dengan Streamlit
 Streamlit adalah sebuah pustaka (library) Python open-source yang digunakan untuk membuat aplikasi web interaktif dari script Python untuk keperluan data science dan machine learning.
 
-## Instalasi Streamlit
-``` bash
-pip install streamlit
-```
+## Libery ayng diperlukan
+1. streamlit - Untuk membuat aplikasi web
+2. pdfplumber - Untuk membaca file PDF
+3. python-docx - Untuk membaca file DOCX
+4. openpyxl - Untuk membaca file XLSX
+5. python-pptx - Untuk membaca file PPTX
+
+   ``` bash
+   pip install streamlit pdfplumber python-docx openpyxl python-pptx
+   ```
 
 ## Langkah menjalankan simple app
 1. Pastikan streamlit sudah terinstall di perangkat anda
