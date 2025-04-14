@@ -43,3 +43,8 @@ Streamlit adalah sebuah pustaka (library) Python open-source yang digunakan untu
     ``` bash
     python -m streamlit run main-2.py
     ```
+
+## Kesimpulan
+1. Dalam penerapannya MarkItDown lebih mudah digunakan dan diimplementasikan karena tidak membutuhkan API untuk mengaksesnya
+2. Dalam hasilnya MarkItDown menghasilkan output yang lebih baik dari MistralOCR dalam hal teks dalam table
+3. Dalam hasil MarkItDown menghasilkan output yang lebih baik dari MistralOCR dalam dokumen PPTX karena MistralOCR ada format yang tidak bisa diolah.
