@@ -19,6 +19,8 @@ Streamlit adalah sebuah pustaka (library) Python open-source yang digunakan untu
 5. python-docx - Untuk membaca/menulis file Microsoft Word (.docx).
 6. python-pptx - Untuk Membaca/menulis file PowerPoint (.pptx).
 7. pandas - Untuk analisis data (membaca Excel/CSV, manipulasi tabel).
+8. requests libary - unutk HTTP requests ke API Mistral
+
 
    ``` bash
    pip install python-dotenv requests pillow pypdf2 pdf2image python-docx python-pptx pandas streamlit
